@@ -1,3 +1,6 @@
+# A-Post-Comment-Backend
+
+This a backend build for a simple weblogs application.
 
 ## User story
 
@@ -61,3 +64,4 @@
 - http://localhost:3001/comments/get-all-comment - get all comments from current user
 - http://localhost:3001/comments/delete-comment
 - http://localhost:3001/comments/update-comment
+
